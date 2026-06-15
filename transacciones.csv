@@ -1,0 +1,5 @@
+fecha,tipo,ticker,cantidad,precio,total
+2026-06-13 14:19:14,compra,AAPL,100,150,15000
+2026-06-13 14:19:14,venta,AAPL,50,175,8750
+2026-06-13 14:20:55,compra,AAPL,100,150,15000
+2026-06-13 14:20:55,venta,AAPL,50,175,8750
